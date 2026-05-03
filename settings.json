@@ -8,7 +8,7 @@
   "server": {
     "ip": "FooF.aternos.me",
     "port": 16362,
-    "version": "1.21.1"
+    "version": "1.19.3"
   },
   "position": {
     "enabled": true,
